@@ -1,0 +1,11 @@
+Ideation Phase
+
+Project Title: Importing & Securing Data in ServiceNow
+
+Problem Statement:
+Organizations using ServiceNow often face challenges in managing training data efficiently. Manual entry and lack of structured access controls lead to data inconsistency, 
+security risks, and reduced operational efficiency.
+
+Project Objective:
+This project aims to automate the process of importing employee training data into ServiceNow, linking it to user records for seamless reporting, and applying access controls 
+using ACLs and roles to ensure only authorized personnel can view or modify the data.
