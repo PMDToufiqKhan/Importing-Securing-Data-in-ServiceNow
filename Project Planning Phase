@@ -1,0 +1,14 @@
+Project Planning Phase
+
+Execution Strategy:
+The project was executed using an iterative development approach. Key activities were broken down into 
+core modules such as data modeling, data import, access configuration, and testing. Each module was 
+developed and validated before proceeding to the next. 
+
+Tools and Technologies:
+
+ServiceNow Developer Instance
+
+Google Sheets/Excel for CSV file
+
+Google Docs for documentation
