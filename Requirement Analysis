@@ -1,0 +1,9 @@
+Requirement Analysis :
+
+-> Creating a Table
+-> Importing the data and mapping the fields
+-> Using Dot-Walking to access Employee Department Information
+-> Creating an Access Control List (ACL)
+-> Elevating the Role and Creating the Role
+-> Testing the Results
+
